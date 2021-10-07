@@ -1,0 +1,3 @@
+# Note-App-Vanila-JavaScript
+A Notes App built with vanilla JavaScript and Local Storage...
+
